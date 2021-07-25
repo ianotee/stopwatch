@@ -1,0 +1,31 @@
+.container{
+	height: 500px;
+	width: 100%;
+
+}
+
+.container{
+	text-align: center;
+}
+
+.container{
+	font-size: 72px
+}
+
+.display{
+	width: 200%;
+	font-size: 300px;
+   text-align: center;
+   margin:0px auto;
+
+}
+
+.button{
+	text-align: center;
+	font-size: 40px;
+
+}
+
+.body{
+	background-color: linear-gradient(to right,#00AAFF,#00FF6C);
+}
